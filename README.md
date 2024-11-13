@@ -1,4 +1,4 @@
-recipe-scraper
+# recipe-scraper
 
 Compile recipes from your your favourite webpages!
 
@@ -19,7 +19,7 @@ How it works:
 
 Tips:
 - Start with an entry point URL that you like. Here are some options you can consider:
-    - [Food Reference]("https://www.foodreference.com/")
-    - [Sally's Baking Addiction]("https://sallysbakingaddiction.com/")
-    - [New York Times Cooking]("https://cooking.nytimes.com/")
-    - [Gimme Some Oven]("https://www.gimmesomeoven.com/")
+    - [Food Reference](https://www.foodreference.com/)
+    - [Sally's Baking Addiction](https://sallysbakingaddiction.com/)
+    - [New York Times Cooking](https://cooking.nytimes.com/)
+    - [Gimme Some Oven](https://www.gimmesomeoven.com/)
